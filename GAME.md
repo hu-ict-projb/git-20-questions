@@ -6,3 +6,5 @@ Dan: Kennen we de persoon in het echt? Eh, maybe, wel eens in het echt gezien, k
 Erin: Is de persoon een man of vrouw? Ja.
 
 JK, het is een man.
+
+Is de persoon Nederlands?
