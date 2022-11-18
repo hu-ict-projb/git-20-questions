@@ -1,3 +1,3 @@
 # Ronde 0 (Voorbeeld)
 
-Is het een mens?
+Bob: Is het een mens? Ja
