@@ -9,3 +9,4 @@ JK, het is een man.
 
 Is de persoon Nederlands? Ja. Nee. Erg Nederlands, maar hij komt hier niet vandaan.
 Is hij oud? Ja, behoorlijk oud.
+Is het een politicus? Nee. Way off.
