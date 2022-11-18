@@ -13,3 +13,5 @@ Is het een politicus? Nee. Way off.
 Is het een acteur? Nee, maar hij wordt soms wel door een acteur gespeeld..?
 
 Is het Sinterklaas?
+
+Ja, Carol wint (en is nu de Sjaak)!
