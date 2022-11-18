@@ -7,4 +7,4 @@ Erin: Is de persoon een man of vrouw? Ja.
 
 JK, het is een man.
 
-Is de persoon Nederlands?
+Is de persoon Nederlands? Ja. Nee. Erg Nederlands, maar hij komt hier niet vandaan.
