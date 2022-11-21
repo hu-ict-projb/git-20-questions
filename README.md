@@ -1,6 +1,6 @@
 # Project Team Workshop Git IIb
 
-Als het goed is hebben jullie allemaal het individuele deel van de workshop afgerond, en hebben jullie een idee hoe om te gaan met meerdere Git-tijdlijnen. In dit tweede deel gaan jullie met je groepje oefenen door middel van het spelen van *20 questions*, via een tekstbestand in deze Git repo (GAME.md).
+Als het goed is hebben jullie allemaal het individuele deel van de workshop afgerond, en hebben jullie een idee hoe om te gaan met meerdere Git-tijdlijnen. In dit tweede deel gaan jullie met je groepje oefenen door middel van het spelen van *20 questions*, via een tekstbestand in deze Git repo (`GAME.md`). Het bestand bevat al een voorbeeldspel, [waarvan de historie ook zichtbaar is](https://github.com/hu-ict-projb/git-20-questions/network).
 
 ## Rollen
 20 questions wordt gespeeld in rondes. Een persoon is steeds de spelleider, dit is degene die de vorige ronde gewonnen heeft (of nog niet aan de beurt is geweest). Voor de eerste ronde begint de student met de meeste Git-kennis.
